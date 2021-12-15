@@ -27,40 +27,24 @@ Dataframe including Non-Vine members
 ---
 
 ## **Results** 
+
+**Vine members full summary**
+![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/InkedVineFullSummary.jpg)
+
+**Non-Vine members full summary**
+![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/InkedNonVineFullSummary.jpg)
+
 * How many Vine reviews and non-Vine reviews were there?
-    Vine members full summary
-    ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/InkedVineFullSummary.jpg)
+    * Indicated in the red circles on both images, there are 334 and 61614 reviews for Vine and Non-Vine members respectively.
 
-    Non-Vine members full summary
-    ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/InkedNonVineFullSummary.jpg)
-    
-    Vine Reviews
-    
-    * There were only 334 reviews by members of the paid Amazon Vine program.
-
-    non-Vine Reviews
-    
-    * There were 40471 reviews from non-Vine members.
-
-* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-
-    5 Star Vine Reviews
-
-    
-    * There were only 48 five star reviews by members of the paid Amazon Vine program. Which makes up 51.06% of the five star reviews.
-
-
-    5 Star non-Vine Reviews
-
-    
-    
-    * There were 15663 five star reviews from non-Vine members. Which makes up 38.7% of the five star reviews.
-
-
-**One Star Reviews**
-
-
+* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? 
+    * Indicated in the blue circles on both images, there are 139 and 32665 5-star reviews for Vine and Non-Vine members respectively.
+  
+* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+    * Indicated in the green circles on both images, percentage of 5-star reviews are 41.62% and 53.02% for Vine and Non-Vine members respectively.
 ---
 
 ## **Summary** 
-Based on the results of our Vine review analysis, we can see that the factor of being paid or not may have an impact on Amazon members leaving positive reviews on video games. While majority of the reviews came from non-Vine members, of the portion of reviews that came from Vine members only one gave a one star review and about 51% of these members gave five star reviews. As for the non-Vine members, only about 38% of these customers gave a five star review and about 25% of them gave a one star review. These results should be considered when determining how well a video game actually did, since it seems there is a slight bias when a customer leaves a review and is apart of the Vine program but, these members were only a small proportion of these reviews so we can say that most of these reviews were genuine in terms of the game's performance.
+Based on our results, we can see that there isn't much of a positivity bias with reviews coming from Vine members. Being a paid member of the program seems to give a lower percentage of 5-star ratings so I am assuming that members that in this group give a harsher and more critical review of the products.
+
+One additional analysis that we could do is to include all data rather than focusing on data with a helpful_vote percentage > 0.5. There was no real reason to be focusing on that data, so if we ran a report on all vote data, it might give more insight into the biases of being within this program. 
