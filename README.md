@@ -28,10 +28,15 @@ Dataframe including Non-Vine members
 
 ## **Results** 
 * How many Vine reviews and non-Vine reviews were there?
+    Vine members full summary
+    ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/InkedVineFullSummary.jpg)
 
+    Non-Vine members full summary
+    ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/InkedNonVineFullSummary.jpg)
+    
     Vine Reviews
     
-    * There were only 94 reviews by members of the paid Amazon Vine program.
+    * There were only 334 reviews by members of the paid Amazon Vine program.
 
     non-Vine Reviews
     
