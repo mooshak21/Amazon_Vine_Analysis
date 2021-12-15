@@ -6,22 +6,22 @@
 
 ## **ETL Process**
 
-Full Reviews Table Data with columns of interest
+**Full Reviews Table Data with columns of interest**
 ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/VineTable.png)
 
-Dataframe with helpful votes > 20 to avoid divide by 0 errors
+**Dataframe with helpful votes > 20 to avoid divide by 0 errors**
 ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/GreaterThan20.png)
 
-Further filtered dataframe with helpful vote percentage > 50%
+**Further filtered dataframe with helpful vote percentage > 50%**
 ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/HelpfulVotesPercent.png)
 
-Full Reviews Table Data with columns of interest
+**Full Reviews Table Data with columns of interest**
 ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/VineTable.png)
 
-Dataframe including Vine members
+**Dataframe including Vine members**
 ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/PartOfVine.png)
 
-Dataframe including Non-Vine members
+**Dataframe including Non-Vine members**
 ![](https://github.com/mooshak21/Amazon_Vine_Analysis/blob/main/Resources/NotPartOfVine.png)
 
 ---
